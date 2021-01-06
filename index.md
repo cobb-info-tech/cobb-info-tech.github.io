@@ -2,5 +2,5 @@
 layout: redirected
 sitemap: false
 permalink: /
-redirect_to:  https://www.davidcobb.net
+redirect_to:  https://www.davidcobb.net/
 ---
